@@ -1,6 +1,6 @@
-================
-summa - textrank
-================
+================  ======================================
+summa - textrank(edited to make compatible with python3)
+================  ======================================
 
 TextRank_ implementation for text summarization and keyword extraction in Python
 
